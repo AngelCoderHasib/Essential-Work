@@ -1,0 +1,49 @@
+#hw{
+    height: 400px;
+    width: 300px;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 86%, rgba(252,176,69,1) 100%);;
+    margin: 0 auto;
+}
+h2{
+    color: black;
+   
+    
+}
+.one{
+    text-align: center;
+}
+.two{
+    text-align: center;
+}
+.two{
+    display: none;
+}
+.one p{
+    color: white;
+}
+.one h3{
+    color: yellow;
+}
+.one button{
+    border: 2px solid black;
+    padding: 5px;
+    background-color: brown;
+    color: white;
+}
+.one input{
+    border: 5px solid aquamarine;
+    background-color: aquamarine;
+}
+.two h3{
+    color: yellow;
+}
+.two button{
+    border: 2px solid black;
+    padding: 5px;
+    background-color: brown;
+    color: white;
+}
+.two input{
+    border: 5px solid aquamarine;
+    background-color: aquamarine;
+}
